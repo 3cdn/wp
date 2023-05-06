@@ -2,7 +2,7 @@
 /*
 Plugin Name: 3CDN Platform
 Description: 🪄 Replace all wp-content URLs with 3CDN URLs to serve static content from 3CDN Platform saving you precious bandwidth and speeding up your website.
-Version: 0.1
+Version: 0.2
 Author: 3CDN
 Author URI: https://3cdn.xyz
 */
