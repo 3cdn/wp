@@ -18,7 +18,7 @@ function encode_urls_in_content($content) {
         foreach ($matches[0] as $url) {
             $encoded_url = base64_encode($url);
 
-            $new_url = 'https://3cdn.xyz/f/' . $encoded_url;
+            $new_url = 'https://3cdn.io/f/' . $encoded_url;
             $content = str_replace($url, $new_url, $content);
         }
     }
