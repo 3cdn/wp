@@ -11,4 +11,4 @@ As of now, the following types are supported: documents, videos, images and audi
 As of now, we only support up to 25MB files. This will change very soon but this gives us time to optimize our platform and make it even better before large files get supported.
 
 ## What regions are supported?
-We currently have storage nodes in Europe, US-Central and Singapore. But don't worry, 
+We currently have storage nodes in Europe, United States, Asia and Africa. But don't worry, more is coming soon!
