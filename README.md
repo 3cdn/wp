@@ -1,14 +1,6 @@
 # 🚀 3CDN Platform for Wordpress
-A Wordpress plugin that makes your website use the 3CDN Platform.
+A Wordpress plugin that makes your website use the 3CDN Platform. Note that our platform is still under development but we recommend you to try this plugin out to see what it could bring for your website.
 
-```
-We're still working on our platform and this plugin. It's not recommended to run this plugin until it hits version 1.0.0
-```
-
-## Todo
-These are things that still need to be done on the plugin's end (which are already part of our platform but should be also handled on your site to avoid funky issues).
-- [ ] Only replace URLs if the file does not cross the 25MB mark.
-- [ ] Only replace URLs that have the supported file types.
 ## How it works?
 It replaces all `wp-content` URLs on your pages with 3CDN URLs making the client fetch the files from our platform. If the file is not found on our servers, we'll fetch it from your server and then push it to our network.
 
