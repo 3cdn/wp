@@ -8,7 +8,7 @@ It replaces all `wp-content` URLs on your pages with 3CDN URLs making the client
 As of now, the following types are supported: documents, videos, images and audio with more file types coming in the near future. 
 
 ## How larges can the files be?
-As of now, we only support up to 25MB files. This will change very soon but this gives us time to optimize our platform and make it even better before large files get supported.
+As of now, we only support up to 100MB files. This will change very soon but this gives us time to optimize our platform and make it even better before large files get supported.
 
 ## What regions are supported?
 We currently have storage nodes in Europe, United States, Asia and Africa. But don't worry, more is coming soon!
